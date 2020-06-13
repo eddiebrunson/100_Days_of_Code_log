@@ -35,6 +35,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+
+##  Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
+
+### Day 2: June 12, 2020 - Friday 
+
+**Today's Project(s):**
+
+- Work through lessons 4 - 7 On Containers using Docker and Travis CI
+- Prepare to Refactor Udagram project for next project due June 15, 2020. 
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Reviewed FCC HTML CSS and JavaScript
+- Continued learning Containers/Microservices
+- Used Travis CI and Docker 
+- Configured Environment Variables with Travis
+- Learned alternative CIs
+- Continued reading Docker Docs
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+
+**Thoughts:** Enjoyed reviewing web development basics on FCC. I also enjoyed learning about Travis CI and how to create environment variables with Travis to avoid logging my Docker credentials. Lastly, I enjoyed learning about Orchestration with Kubernetes and design patterns for it in production. I look forward to refactoring my project next. 
+
+---
+
 ## Official 1st day! - Cloud Developer - Continue learning about Mircoservices 
 
 ### Day 1: June 11, 2020 - Thursday
@@ -47,8 +76,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- Review FCC HTML and CSS 
-- Continue learning Containers/Microservices
+- Reviewed FCC HTML and CSS 
+- Continued learning Containers/Microservices
 - Read Docker Docs
 
 **Link to work:**
