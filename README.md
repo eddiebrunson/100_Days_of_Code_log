@@ -80,7 +80,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
 
-**Thoughts:** I'm exciting to finally uderstand how Cloud Technologies improve the architecting and deployment of software. I always woundered how teams managed deployment now I see that there are tools like Docker. I'm enjoying reviewing my past work on FCC it's good to refresh my skills. 
+**Thoughts:** It's great to finally uderstand how Cloud Technologies improve the architecting and deployment of software. I always woundered how teams managed deployment now I see that there are tools like Docker. I'm enjoying reviewing my past work on FCC it's good to refresh my skills. 
 
 ---
 
