@@ -60,7 +60,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
 - [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
 
-**Thoughts:** Enjoying reviewing web development basics on FCC. I also enjoyed learning about Travis CI and how to create environment variables with Travis to avoid logging my Docker credentials when pushing. Also I enjoyed learning abour Orchestration with Kubernetes and design patterns for it in production. I look forward to refactoring my project next. 
+**Thoughts:** Enjoyed reviewing web development basics on FCC. I also enjoyed learning about Travis CI and how to create environment variables with Travis to avoid logging my Docker credentials. Lastly, I enjoyed learning about Orchestration with Kubernetes and design patterns for it in production. I look forward to refactoring my project next. 
 
 ---
 
