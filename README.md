@@ -35,7 +35,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
-## Office 1st day! - Cloud Developer - Continue learning about Mircoservices 
+## Official 1st day! - Cloud Developer - Continue learning about Mircoservices 
 
 ### Day 1: June 11, 2020 - Thursday
 
