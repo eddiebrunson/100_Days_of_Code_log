@@ -35,8 +35,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+## Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
 
-##  Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
+### Day 3: June 13, 2020 - Saturday  
+
+**Today's Project(s):**
+
+- Work through lessons 5 - 7 On Containers using Docker and Travis CI and Kubernetes
+- Prepare to Refactor Udagram project for next project due June 15, 2020. 
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Reviewed FCC HTML CSS and JavaScript 
+- Continued learning Containers/Microservices
+- Learned about Orchestration with Kubernetes
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+
+**Thoughts:** Today was great! I really like how as each day goes by, I find out about things that I have always wondered about Cloud techologies and automation. I enjoyed working through the exercises on congifuring a K8 on AWS. As there are multiple steps and configurations to work through. 
+
+---
+
+## Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
 
 ### Day 2: June 12, 2020 - Friday 
 
@@ -53,7 +82,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Used Travis CI and Docker 
 - Configured Environment Variables with Travis
 - Learned alternative CIs
-- Continued reading Docker Docs
+- Continued reading [Docker Docs](https://docs.docker.com)
 
 **Link to work:**
 
@@ -78,7 +107,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - Reviewed FCC HTML and CSS 
 - Continued learning Containers/Microservices
-- Read Docker Docs
+- Read [Docker Docs](https://docs.docker.com)
 
 **Link to work:**
 
