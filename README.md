@@ -35,6 +35,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+## Office 1st day! - Cloud Developer - Continue learning about Mircoservices 
+
+### Day 1: June 11, 2020 - Thursday
+
+**Today's Project(s):**
+
+- Finish lessons 4 - 7 On Containers using Docker and Travis CI
+- Prepare to Refactor Udagram project for next project due June 15, 2020. 
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Review FCC HTML and CSS 
+- Continue learning Containers/Microservices
+- Read Docker Docs
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+**Thoughts:** I'm still getting the hang of my new workflow of updating the this log and my social media accounts on my progress. So far so good! Right now it's not going to look like I'm coding a lot. As I'm mainly reviewing, taking notes in markdown, and configuring cloud services. As I get closer to starting my Refactor Udagram project I'll have more code to post. I plan to focus on Travis CI tomorrow. 
+
+---
 
 ## Pre-launch - Cloud Developer - Continue learning about Mircoservices 
 
