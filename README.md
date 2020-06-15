@@ -66,7 +66,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
 - [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
 
-**Thoughts:** Yesterday was a tough day! I actally got stuck when trying to create a EKS Kubernetes Cluster. I spent hours upon hours researching the problem. Only to find out that when I created the EKS Cluster I was logged into the AWS Console as root user and I was supposed to be logged in as a user. So I had to reconfigure things and recreated my K8 cluster and I finally got pasted the `Unauthorized` error I was getting. It's the best feeling in the world to solve your own problems! I feel like I enjoy learning better when I solve roadblocks! I'm very close to starting my Refactoring project. I plan to be finished with it by tomorrow! 
+**Thoughts:** Yesterday was a tough day! I actually got stuck when trying to create a EKS Kubernetes Cluster. I spent hours upon hours researching the problem. Only to find out that when I created the EKS Cluster, I was logged into the AWS Console as root user. I was supposed to be logged in as a user. So I had to reconfigure things and recreated my K8 cluster and I finally got past the `Unauthorized error` I was getting. It's the best feeling in the world to solve your own problems! I feel like I enjoy learning better when I solve roadblocks! I'm very close to starting my Refactoring project. I plan to be finished with it by tomorrow! 
 
 ---
 ## Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
