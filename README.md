@@ -35,6 +35,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+
+## Review FCC and Kubernetes - Cloud Developer - Continue learning about Mircoservices 
+
+### Day 4: June 14, 2020 - Sunday
+
+**Today's Project(s):**
+
+- Work through lessons 6 - 7 On Containers using Docker and Travis CI and Kubernetes
+- Prepare to Refactor Udagram project for next project due June 15, 2020. 
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Reviewed FCC HTML CSS and JavaScript 
+- Continued learning Containers/Microservices
+- Learned about Orchestration with Kubernetes
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+
+**Thoughts:** Yesterday was a tough day! I actally got stuck when trying to create a EKS Kubernetes Cluster. I spent hours upon hours researching the problem. Only to find out that when I created the EKS Cluster I was logged into the AWS Console as root user and I was supposed to be logged in as a user. So I had to reconfigure things and recreated my K8 cluster and I finally got pasted the `Unauthorized` error I was getting. It's the best feeling in the world to solve your own problems! I feel like I enjoy learning better when I solve roadblocks! I'm very close to starting my Refactoring project. I plan to be finished with it by tomorrow! 
+
+---
 ## Review FCC and Travis CI - Cloud Developer - Continue learning about Mircoservices 
 
 ### Day 3: June 13, 2020 - Saturday  
