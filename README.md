@@ -35,6 +35,80 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+<!--
+## Start Refactor Udagram project!
+
+### Day 5: June 17, 2020 - Wednesday
+
+**Today's Project(s):**
+
+- Work through lessons 7 on Refactoring Udagram Project 
+- Start to Refactor Udagram project
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Reviewed FCC HTML CSS and JavaScript 
+- Continued learning Containers/Microservices
+- Learned about Orchestration with Kubernetes
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Worked on Refactoring Udagram into microservices
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** Today was another review day! I reviewed FCC exercises that I have already completed in the past, but it's nice to refresh my skills. I moved on to starting my Refactor Udagram project. I have run into a few errors that I'm troubleshooting. Although I'm about 70% finished. I still have more configuration to do. So I now plan to be finished by tomorrow! 
+-->
+---
+
+
+## Continue Refactor Udagram project!
+
+### Day 6: June 16, 2020 - Tuesday
+
+**Today's Project(s):**
+
+- Review Notes and Lessons  
+- Continue to Refactor Udagram project
+- Review Free Code Camp lessons 
+
+**Progress:**
+
+- Reviewed FCC HTML CSS and JavaScript 
+- Continued learning Containers/Microservices
+- Learned about Orchestration with Kubernetes
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration/dependency errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Worked on Refactoring Udagram into microservices
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** Today was a very productive day! I made a lot of progress on my Project! I ran into more errors mainly npm dependency issues. So I'm researching the problems. Although my app now runs, with a `Error response from daemon: Error processing tar file(exit status 1): chtimes /node_modules/rxjs/operators/windowToggle.js.map: read-only file system`  Seems like another dependency issue. I'm sure I'll get to running without that error.  
+
+---
+
 
 ## Start Refactor Udagram project!
 
