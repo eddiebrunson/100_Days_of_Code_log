@@ -35,15 +35,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
-<!--
-## Start Refactor Udagram project!
 
-### Day 5: June 17, 2020 - Wednesday
+
+## Continue Refactor Udagram project!
+
+### Day 7: June 17, 2020 - Wednesday
 
 **Today's Project(s):**
 
-- Work through lessons 7 on Refactoring Udagram Project 
-- Start to Refactor Udagram project
+- Review lessons and notes to Refactor Udagram Project 
+- Continue Refactor Udagram project
 - Review Free Code Camp lessons 
 
 **Progress:**
@@ -52,7 +53,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Continued learning Containers/Microservices
 - Learned about Orchestration with Kubernetes
 - Used Travis CI, Docker, AWS, and Kubernetes
-- Troubleshooting configuration errors 
+- Troubleshooting configuration/dependency errors 
 - Configured Kubernetes on AWS using deployment.yml and service.yml files
 - Learned how to set up Kubernetes Clusters (EKS) and thier commands
 - Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
@@ -68,8 +69,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
 - [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
 
-**Thoughts:** Today was another review day! I reviewed FCC exercises that I have already completed in the past, but it's nice to refresh my skills. I moved on to starting my Refactor Udagram project. I have run into a few errors that I'm troubleshooting. Although I'm about 70% finished. I still have more configuration to do. So I now plan to be finished by tomorrow! 
--->
+**Thoughts:** Today I learned more about Docker Hub and it's commands. I'm very close to finishing my project. This had been a great learning process. This project had so many dependency issues, I'm learning so much about why installing the `@lastest` isn't always the best. 
+
 ---
 
 
