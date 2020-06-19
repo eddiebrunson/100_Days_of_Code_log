@@ -64,7 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
 - [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
 
-**Thoughts:** I'm so happy I was finally able to get past my many npm dependency errors. I would follow the warning messages and update a dependency and it would create 5 more dependecy issues and break my project. I never had so many dependency issues before, but I learned a lot! I also figure out why I got these strange daemon errors when, I tried to build my docker image. I knew I did eveything right and I was correct! It turned out I ran out of storage on my Macbook Pro. So `docker build .` would constantly exit with various error messages such as a file system was read only. So glad I did not give up! Just a few more configurations and I'll finally be done with this project!
+**Thoughts:** I'm so happy I was finally able to get past my many npm dependency errors. I would follow the warning messages and update a dependency and it would create 5 more dependecy issues and break my project. I never had so many dependency issues before, but I learned a lot! I also figured out why I got these strange daemon errors when, I tried to build my docker image. I knew I did eveything right and I was correct! It turned out I ran out of storage on my Macbook Pro. So `docker build .` would constantly exit with various error messages such as a file system was read only. So glad I did not give up! Just a few more configurations and I'll finally be done with this project!
 
 ---
 
