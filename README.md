@@ -36,6 +36,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Continue Refactor Udagram project!
+
+### Day 8: June 18, 2020 - Thursday
+
+**Today's Project(s):**
+
+- Review lessons and notes to Refactor Udagram Project 
+- Continue Refactor Udagram project
+
+**Progress:**
+
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration/dependency errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Reviewed the Alternative Delopyment Strategies such as AWS ECS, AWS Faragate, and Docker
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Worked on Refactoring Udagram into microservices
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** I'm so happy I was finally able to get past my many npm dependency errors. I would follow the warning messages and update a dependency and it would create 5 more dependecy issues and break my project. I never had so many dependency issues before, but I learned a lot! I also figure out why I got these strange daemon errors when, I tried to build my docker image. I knew I did eveything right and I was correct! It turned out I ran out of storage on my Macbook Pro. So `docker build .` would constantly exit with various error messages such as a file system was read only. So glad I did not give up! Just a few more configurations and I'll finally be done with this project!
+
+---
+
 
 ## Continue Refactor Udagram project!
 
