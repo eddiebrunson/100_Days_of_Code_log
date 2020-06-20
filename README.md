@@ -38,6 +38,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Continue Refactor Udagram project!
 
+### Day 9: June 19, 2020 - Friday
+
+**Today's Project(s):**
+
+- Review lessons and notes to Refactor Udagram Project 
+- Continue Refactor Udagram project
+
+**Progress:**
+
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration/dependency errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Worked on Refactoring Udagram into microservices
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** I seem to have hit another issue with my project. When I `docker-compose up' it successfully builds and my app runs, but I get the following error message in the terminal: 
+
+`node_modules/sequelize-typescript/lib/models/Sequelize.d.ts(7,40): error TS2507: Type 'typeof import("/usr/src/app/node_modules/sequelize/types/index")' is not a constructor function type.
+backend-user_1  | src/server.ts(14,19): error TS2339: Property 'sync' does not exist on type 'Sequelize'.`
+
+It may be a dependency issue. I'll try to rebuild that particular image and try again tomorrow. 
+
+---
+
+
+## Continue Refactor Udagram project!
+
 ### Day 8: June 18, 2020 - Thursday
 
 **Today's Project(s):**
