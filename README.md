@@ -38,6 +38,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Continue Refactor Udagram project!
 
+### Day 11: June 21, 2020 - Sunday 
+
+**Today's Project(s):**
+
+- Review lessons and notes to Refactor Udagram Project 
+- Continue Refactor Udagram project
+
+**Progress:**
+
+- Moved my development from Macbook to iMac
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration/dependency errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Learned Best Practices/Design Patterns for Kubernetes in Production
+- Learned how to create a Reverse Proxy to Direct Backend Request
+- Configured Scaling and self-healing 
+- Worked on Refactoring Udagram into microservices
+- Read [Travis CI](https://docs.travis-ci.com), [Kubernetes](https://kubernetes.io/docs/home/), [AWS EKS](https://aws.amazon.com/eks/) Docs, [Resilient Software Design Presentation](https://conferences.oreilly.com/software-architecture/sa-eu-2017/public/schedule/detail/61746)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** Today was such a nice warm day. I struggled to stay inside! I started the day off researching more into some of the npm warning messages I got yesterday. Due to the fact that I strongly believed the majority of my problems were dependency and storage related. I moved my development from my Macbook Pro over to my iMac. Within minutes I had my project up and running! I'm so glad to move my development environment! This is been a great learning experience. Just a few more steps to connect my app to my S3 bucket!
+
+---
+
+
+
+## Continue Refactor Udagram project!
+
 ### Day 10: June 20, 2020 - Saturday
 
 **Today's Project(s):**
@@ -64,13 +98,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
 
 **Thoughts:** I have completely ran out of storage on my Macbook Pro. I moved as much as I could onto my external hard drive, but its still not enough room to complete this project. I did not realize how much storage building docker images would take up. So to remove the possibility of storage issues causing anymore docker build errors. I'm moving my development to my desktop. Last, night I ran into issues with getting my git repository to clone my most recent push. I believe that was an icloud issue. I was able to clone the repo, but the files were the same starter files I already had on my desktop. Anyways, now everything is current and on my desktop I should be fine from here on out. I realized that another cause of some of the `docker-compose up` errors were due to my local node_modules being included in the `docker build .` images. That caused dependency issues due to docker running on a different configuration than on my local machine. So to solve that I have included `.dockerignore` files for all nodue_modules. So when I create new docker images, docker will pull them on it's end and not from the image of my local environment. Next, on my list is to reconnect my app to my s3 bucket. All of these dependency issues were a headache, but I have learned so much. I know how to aviod them in the future!
-
----
-
-### Secondary Goals & Resources
-
-- [x] Complete [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) as well as the [Cloud Developer Nanodegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990). 
-- [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
 
