@@ -36,6 +36,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Passed my Refactor Udagram project!
+
+### Day 12: June 22, 2020 - Monday
+
+**Today's Project(s):**
+
+- Start Serverless lessons
+- Prepare for React Review
+
+**Progress:**
+
+- Project Passed!!
+- Deployed Refactor Udagram App 
+- Used Travis CI, Docker, AWS, and Kubernetes
+- Troubleshooting configuration/dependency errors 
+- Configured Kubernetes on AWS using deployment.yml and service.yml files
+- Learned how to set up Kubernetes Clusters (EKS) and thier commands
+- Worked on Refactoring Udagram into microservices
+- Finished Lesson 1 Serverless Introduction 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** Early this morning I finished troubleshooting deployment issues. It turned out that using the latest version of Kubernetes also introducted breaking issues when I tried to apply yaml files. I was able to solve the issues and get my pods running! I also turned in my project for review! I passed!! This project really was such a learning experience! Now, more than ever before I realize how vital dependencies are to the health of applications. It's very important to understand how to balance npm installs and upgrades. Now, I'm moving on to learning about Serverless Applications and working towards building a TODO application using AWS Lambda and Serverless framework. I also plan to continue learning React at the same time. 
+---
+
+
 ## Continue Refactor Udagram project!
 
 ### Day 11: June 21, 2020 - Sunday 
@@ -67,8 +98,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Today was such a nice warm day. I struggled to stay inside! I started the day off researching more into some of the npm warning messages I got yesterday. Due to the fact that I strongly believed the majority of my problems were dependency and storage related. I moved my development from my Macbook Pro over to my iMac. Within minutes I had my project up and running! I'm so glad to move my development environment! This is been a great learning experience. Just a few more steps to connect my app to my S3 bucket!
 
 ---
-
-
 
 ## Continue Refactor Udagram project!
 
