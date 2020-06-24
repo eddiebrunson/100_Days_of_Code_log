@@ -38,6 +38,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Passed my Refactor Udagram project!
 
+### Day 13: June 23, 2020 - Tuesday
+
+**Today's Project(s):**
+
+- Start Rest API Lessons
+- React Review
+
+**Progress:**
+
+- Finished Lesson 2 Serverless Introduction 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:** It still feels so good to have finished the last project! I may reuse the project for my capstone by adding more features to it. Or I may covert it into a serverless application. As of today I have finish Lesson 2 on REST API. I enjoyed learning how to develop a REST API for a group of images, and how to store data in DynamoDB and build a web app using React. It ties into my review of React as I'm aslo working through [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) at the same time. Next up will be Lesson 3 Serverless Framework. 
+
+---
+
+
+## Passed my Refactor Udagram project!
+
 ### Day 12: June 22, 2020 - Monday
 
 **Today's Project(s):**
@@ -64,6 +89,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
 
 **Thoughts:** Early this morning I finished troubleshooting deployment issues. It turned out that using the latest version of Kubernetes also introducted breaking issues when I tried to apply yaml files. I was able to solve the issues and get my pods running! I also turned in my project for review! I passed!! This project really was such a learning experience! Now, more than ever before I realize how vital dependencies are to the health of applications. It's very important to understand how to balance npm installs and upgrades. Now, I'm moving on to learning about Serverless Applications and working towards building a TODO application using AWS Lambda and Serverless framework. I also plan to continue learning React at the same time. 
+
 ---
 
 
