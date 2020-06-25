@@ -36,6 +36,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Learning Develop & Deploy Servless App material
+
+### Day 15: June 25, 2020 - Thursday
+
+**Today's Project(s):**
+
+- Start Event Processing
+- React Review
+
+**Progress:**
+
+- Finished Lesson 4 Event Processing
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [DynanoDB JSON](http://bit.ly/dynamo-db-json)
+- Read about [Elasticsearch](https://www.elastic.co/guide/index.html)
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:**  Today I worked through Event Processing and I learned how to process different events types with Lambda functions. Specifically, image uploads to S3, S3 notifications, full-text search, and Amazon's Simple Notification Service (SNS). 
+
+
+---
+
 
 ## Learning Develop & Deploy Servless App material
 
@@ -58,6 +84,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
 
 **Thoughts:**  Today I learned so much about Serverless Frameworks and when best to implement them. I understand that it's a standardized way of deploying applications, creating resources, and managing applications. React and Redux review is going well. Its nice to come back after some time and review the fundamentals to advanced concepts again. 
+
+
+---
 
 
 ## Learning Develop & Deploy Servless App material
