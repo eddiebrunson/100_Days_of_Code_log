@@ -36,7 +36,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## Passed my Refactor Udagram project!
+
+## Learning Develop & Deploy Servless App material
+
+### Day 14: June 24, 2020 - Wednesday 
+
+**Today's Project(s):**
+
+- Start Serverless Framework
+- React Review
+
+**Progress:**
+
+- Finished Lesson 3 Serverless Framework
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Refactor Udagram Project](https://github.com/eddiebrunson/Refactor-Udagram-APP)
+
+**Thoughts:**  Today I learned so much about Serverless Frameworks and when best to implement them. I understand that it's a standardized way of deploying applications, creating resources, and managing applications. React and Redux review is going well. Its nice to come back after some time and review the fundamentals to advanced concepts again. 
+
+
+## Learning Develop & Deploy Servless App material
 
 ### Day 13: June 23, 2020 - Tuesday
 
@@ -61,7 +85,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
-## Passed my Refactor Udagram project!
+## Learning Develop & Deploy Servless App material
 
 ### Day 12: June 22, 2020 - Monday
 
