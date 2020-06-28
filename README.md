@@ -38,6 +38,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Learning Develop & Deploy Servless App material
 
+### Day 16: June 26, 2020 - Friday
+
+**Today's Project(s):**
+
+- Start Event Processing
+- React Review
+
+**Progress:**
+
+- Finished Lesson 5 Authentication 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [DynanoDB JSON](http://bit.ly/dynamo-db-json)
+- Read about [Elasticsearch](https://www.elastic.co/guide/index.html)
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+
+
+**Thoughts:**  Today I finished learning about Authentication and authorization using Serverless. I learned about this before so it was good to refresh my knowledge on such an important topic. Authenication is to know how the user is, and Authorization is to know what the user can do. It has been awhile since I implemented authentication with third party providers such as Google Login or Facebook). Now that I have skill refreshed I'll be adding them to all of my personal project. On my own I want to also learn how to implement authentication with apple sign in. I also continued learning about React and Redux! It feels good to switch between different concepts. I'm still working on updating the app, so more dependency tasks even though my app runs and works. My goal is to implement redirects if a user accesses a page from the url without being logged in. Then redirects the user to login and from there redirects to the user to the intended page. I have an idea on how to implement it by using PrivateRoutes and browser history. 
+
+---
+
+
+## Learning Develop & Deploy Servless App material
+
 ### Day 15: June 25, 2020 - Thursday
 
 **Today's Project(s):**
