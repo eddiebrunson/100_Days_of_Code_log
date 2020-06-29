@@ -36,6 +36,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+
+## Start AWS Machine Learning Foundations
+
+### Day 18: June 28, 2020 - Sunday
+
+**Today's Project(s):**
+
+- Start Best Practices 
+- React Review
+- Update Would You Rather APP
+- Start AWS Machine Learning Engineer Foundations 
+
+**Progress:**
+
+- Start Software Engineering Practices Part 1 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [DynanoDB JSON](http://bit.ly/dynamo-db-json)
+- Read about [Elasticsearch](https://www.elastic.co/guide/index.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+
+
+**Thoughts:**  So excited to finally venture into Machine Learning today! I signed up for Udacity's Scholarship program, where I would enroll in a AWS Machine Learning Foundations Course. Once I complete the course I will have the opperunity to take a quiz where the top 300 students will get access to the Machine Learning Engineer Nanodegree by AWS. I'm currenly scheduling out my time so that I can finish all three certifications at the same time! I know I can do it! I learned a lot about software engineering practices such as how to write clean and modular code, improve code efficiency, and to add effective documentation.
+
+
+
+---
+
+
 ## Learning Develop & Deploy Servless App material
 
 ### Day 17: June 27, 2020 - Saturday 
