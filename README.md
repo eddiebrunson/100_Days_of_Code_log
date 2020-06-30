@@ -36,6 +36,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Continue AWS Machine Learning Foundations
+
+### Day 20: June 30, 2020 - Tuesday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP goal is to turn in for review this week!
+- Start Software Engineering Practices Part 2
+
+**Progress:**
+
+- Finished Software Engineering Practices Part 2 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I really enjoyed learning about Software Engineering Practices, the more I learn about software engineering the more I realize how connected each field is. As the Software Engineering Practices that I know as a Developer are very similar to that of a Data Scientist. It makes sense for Data Scientist to know how to write clear, consise, modular, and test driven code just as a Software Engineer would. It makes for working together on projects more streamlined and efficient! My goal is to write more comments and docstrings in all of my projects from here on out. I have a few comments here and there throughout my old projects, but looking back I see where I can add more. My next goal is to start writing tests before I begin coding so that I follow the principle of Test Driven Development. I know these skills will help prepare me any team I join in the feature.
+ 
+
+
 
 ## Start AWS Machine Learning Foundations
 
@@ -137,7 +167,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Today's Project(s):**
 
-- Start Event Processing
+- Start Authentication 
 - React Review
 - Update Would Rather React APP
 
@@ -224,7 +254,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- Finished Lesson 2 Serverless Introduction 
+- Finished Lesson 2 REST API
 - Read [React Docs](https://reactjs.org/docs/getting-started.html)
 
 **Link to work:**
