@@ -37,14 +37,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 ## Back to Cloud Development Material
 
-### Day 22: July 2, 2020 - Thursday 
+### Day 23: July 3, 2020 - Friday
 
 **Today's Project(s):**
 
 - Review Serverless Material  
 - React Review
 - Update Would You Rather APP --getting closer to meeting all specifications
-- Preparing for Cloud Development Project 
+- Working on TODO App Cloud Development Project 
 
 **Progress:**
 
@@ -62,9 +62,41 @@ _ Resolved AWS billing issue
 - [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
 
 
-**Thoughts:** Today was a set-up day! I needed to get all local environment set up for the Cloud Developer project I plan to complete in the next few days. I put it on hold for a while, because I ended up getting an almost $200 AWS bill. Thankfully, AWS understood that I mistakenly left some resources running, but inactive. So they waived the fees!! So, tommorrow I plan to start the process of configuring my TODO app with a serverless approach. I also plan to switch to working on my React project as well. 
+**Thoughts:** Today I completed implementing a few functions to make authorize a use using JWT and oAuth. So far so good! About 6 more files to complete and I would be done with the project soon. 
 
 ---
+
+## Continue AWS Machine Learning Foundations
+
+### Day 22: July 1, 2020 - Wednesday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP goal is to turn in for review this week!
+- Start Object Oriented Programming-- Machine Learning 
+
+**Progress:**
+
+- Finished Object-Oriented Programming-- Machine Learning 
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I enjoyed a review of object-oriented programming. I like how throughout my studies I'm able to come back to topics I've covered before. It really helps me retain the information. 
+
+
+---
+
 
 
 ## Continue AWS Machine Learning Foundations
