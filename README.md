@@ -38,6 +38,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Back to Cloud Development Material
 
+### Day 25: July 5, 2020 - Sunday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+
+**Progress:**
+
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I'm stll working on my TODO app project. I have been dealing with a security/virus on my desktop for the past few days. So I have disconnected that device from the internet. So I've been doing my work locally until I finish quarantining my desktop. I believe the antivirus finally found the virus today. I'm surprised I got virus on my Mac as I only use it for work and I keep it locked down. The reason I believed I had a virus was my desktop kept restarting mulitple times through out the day. Also, my internet service provider kept sending me alerts that a known malicous IP from Russia was attempting to access my desktop. This has been a minor set back, bc I wasn't able to test my application locally while offline. I hope everything will be resolved soon. 
+
+
+---
+
+
+
+## Back to Cloud Development Material
+
 ### Day 24: July 4, 2020 - Saturday 
 
 **Today's Project(s):**
