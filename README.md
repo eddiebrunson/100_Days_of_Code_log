@@ -35,6 +35,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
 ---
+
+## Back to Cloud Development Material
+
+### Day 24: July 4, 2020 - Saturday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+
+**Progress:**
+
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Finished configuring my serverless.yml file. Which will be used to automatically configure my AWS services through AWS CloudFormation. I'm still working on getting my http functions and seperating my business logic, from the the data logic, and rest of the app. 
+
+---
+
+
 ## Back to Cloud Development Material
 
 ### Day 23: July 3, 2020 - Friday
