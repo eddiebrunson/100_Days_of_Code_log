@@ -37,6 +37,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+
+## Security Issue/Working offline 
+
+### Day 27: July 7, 2020 - Tuesday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Start learning Cloud DevOps 
+
+**Progress:**
+
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I continued working on implementing my lambda functions for the serverless Todo app. I also moved on to learning Cloud DevOps. 
+
+
+---
+
+
+
+
 ## Security Issue/Working offline 
 
 ### Day 26: July 6, 2020 - Monday
