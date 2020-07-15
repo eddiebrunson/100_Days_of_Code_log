@@ -39,6 +39,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 32: July 12, 2020 - Sunday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Started Java for Web Developers 
+
+**Progress:**
+
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I continued working on the Todo App, I have some errors to fix before I deploy and test the code. 
+
+
+---
+
+
+
+## Security Issue/Working offline 
+
 ### Day 31: July 11, 2020 - Saturday 
 
 **Today's Project(s):**
@@ -67,7 +104,7 @@ _ Resolved AWS billing issue
 - [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
 
 
-**Thoughts:** I finished configuring my files and AWS services. I'm still working on fixing a permissions error. It may be an incorrect evnironment variable. I also moved on to learning more about Java for Web Development. Another subject I alway wanted to study further so I'm excited to learn more! This weekend my goal is to fish the Todo App and my React Would You Rather App.  
+**Thoughts:** I finished configuring my files and AWS services. I'm still working on fixing a permissions error. It may be an incorrect evnironment variable. I also moved on to learning more about Java for Web Development. Another subject I alway wanted to study further so I'm excited to learn more! This weekend my goal is to finish the Todo App and my React Would You Rather App.  
 
 
 ---
