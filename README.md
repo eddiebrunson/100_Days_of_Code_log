@@ -38,6 +38,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 38: July 18, 2020 - Saturday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Start Testing - Java 
+
+**Progress:**
+
+- Finished Testing - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** This is day 4 of troubleshooting the deloyment issue with using 'sls deploy -v' it still just gives the verisons as it output without running verbose the many deployment steps. Its as if its not starting at all and just exits. I'll include a screenshot of the output. Anyways also moved on to learning about testing in Java. 
+
+
+---
+
+
+
+
+## Security Issue/Working offline 
+
 ### Day 37: July 17, 2020 - Friday
 
 **Today's Project(s):**
