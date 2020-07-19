@@ -39,6 +39,81 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 35: July 15, 2020 - Wednesday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Start Spring Boot Basics for Web Development - Java
+
+**Progress:**
+
+- Finished Spring Boot Basics for Web Development - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I ran into a unexpected problem where I cannot deploy my Todo app using the given command 'sls deploy -v' I have to use the serverless web interface to deploy. Very strange I'm not getting any error messages, so I must be missing something in my serverless.yml file. Luckly, I'm able to deploy in a round about way. So I'm moving on for now. I also learned about Spring Boot for Web Development. 
+
+
+---
+
+
+
+## Security Issue/Working offline 
+
+### Day 34: July 14, 2020 - Tuesday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Start Web Development in Java
+
+**Progress:**
+
+- Finished Web Development in Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I learned about Web Development in Java. It's interesting learning about setting up the development environment. 
+
+
+---
+
+
+## Security Issue/Working offline 
+
 ### Day 33: July 13, 2020 - Monday
 
 **Today's Project(s):**
