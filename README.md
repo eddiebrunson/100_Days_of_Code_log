@@ -38,6 +38,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 40: July 20, 2020 - Monday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Review Spring Boot Basics 
+
+**Progress:**
+
+- Finished reviewing Spring Boot Basics
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I worked on my Todo app. I've very close to finishing. I resolved the issue where I could not use the command 'sls deploy -v'. It drove me crazy, but instead of restarting my desktop. I shut it down and it took about 2 hours to come back on. So I'm not sure what exactly was going on, but I'm not able to use the command to deploy my project! Although, I'm still working on fixing the type attribute error. 
+
+
+---
+
+
+
+## Security Issue/Working offline 
+
 ### Day 39: July 19, 2020 - Sunday
 
 **Today's Project(s):**
