@@ -39,6 +39,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
+## Security Issue/Working offline 
+
+### Day 43: July 23, 2020 - Thursday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Continue SuperDuperDrive Project - Java 
+
+**Progress:**
+
+- Continue working on SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I switched between all three projects listed above. Still working on errors with the TODO app. My hunch is it has to do with the way I set up headers in the lambda functions. Hopefully, I will figure it out soon. 
+
+
+---
+
+
+
+
 ## Security Issue/Working offline 
 
 ### Day 42: July 22, 2020 - Wednesday 
@@ -50,7 +90,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Update Would You Rather APP --getting closer to meeting all specifications
 - Working on TODO App Cloud Development Project 
 - Continue working on DevOps Deploy Static Website. 
-- Continue  SuperDuperDrive Project - Java 
+- Continue SuperDuperDrive Project - Java 
 
 **Progress:**
 
