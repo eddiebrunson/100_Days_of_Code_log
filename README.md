@@ -39,6 +39,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+## Security Issue/Working offline 
+
+### Day 44: July 24, 2020 - Friday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Update Would You Rather APP --getting closer to meeting all specifications
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Continue SuperDuperDrive Project - Java 
+
+**Progress:**
+
+- Continue working on SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I got past the Type attribute error! So I can now login to my Todo app without an error, but when I create a todo. I get a status code of 400! So I believe its something to do with my auth headers again. I'm so close! This has been a long process of troubleshooting! 
+
+
+---
+
+
+
 
 ## Security Issue/Working offline 
 
