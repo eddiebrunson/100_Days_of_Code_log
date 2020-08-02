@@ -39,6 +39,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 48: July 28, 2020 - Tuesday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website
+- Wrap up Introdution to Machine Learning with AWS
+
+**Progress:**
+
+- Continue Introduction to Machine Learning with AWS
+- Continue working on SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Another milestone is coming to an end! The Intro to Machine Learning Nanodegree ends on the 31st of July, 2020. So I'm trying to finish up the material and atttempt to study for the end of course assement. If I score in the top 320 I will be able to enroll in the new Machine Learning with Azure Nanodegree! Although, I found out about this scholarship a month late. So 4 weeks doesn't seem like enough time for me to dig in to the material. Nonetheless, I will try! 
+
+
+---
+
+
+
+## Security Issue/Working offline 
+
 ### Day 47: July 27, 2020 - Monday 
 
 **Today's Project(s):**
