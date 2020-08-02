@@ -39,6 +39,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Issue/Working offline 
 
+### Day 47: July 27, 2020 - Monday 
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- React Review
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website. 
+- Last day of trial access to - Java Nanodegree 
+
+**Progress:**
+
+- Continue working on SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Finished setting up my local development environment for the project
+_ Resolved AWS billing issue
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+- Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
+- Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today, is the last day of my trial of the Java Nanodegree. I am so glad I joined and have learned so much about Java in the past few weeks. I wish I could afford to finish this nanodegree, but I'll come back and finish when I can! In the meanwhile, since I already started the project I plan to finish the 1st Java project in my free time! So, from here on out I will be focusing on just Cloud materials. 
+
+
+---
+
+
+
+
+
+## Security Issue/Working offline 
+
 ### Day 46: July 26, 2020 - Sunday 
 
 **Today's Project(s):**
