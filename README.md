@@ -38,6 +38,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+## Security Issue/Working offline 
+
+### Day 52: Aug 1, 2020 - Saturday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 
+- Continue working on DevOps Deploy Static Website
+- Wrap up Introdution to Machine Learning with AWS
+
+**Progress:**
+
+- [x] [Finshed Static Website - 1st Cloud DevOps Project](https://github.com/eddiebrunson/Project-1) - :tada: Passed!!! :tada:
+- Set up local development environment for 2nd Cloud DevOps project 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today I passed the first Cloud DevOps Engineer project!!! Because, I'm on a roll, I'm going to get up my files for the 2nd project today! I also continued taking notes on Cloud Formation! 
+
+
+
+___
+
 
 ## Security Issue/Working offline 
 
@@ -57,7 +91,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Continue working on SuperDuperDrive Project - Java
 - Finished configuring AWS services for the DevOps project
 - Finished setting up my local development environment for the project
-_ Resolved AWS billing issue
+- Resolved AWS billing issue
 - Read [React Docs](https://reactjs.org/docs/getting-started.html)
 - Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 - Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
@@ -95,7 +129,7 @@ _ Resolved AWS billing issue
 - Continue working on SuperDuperDrive Project - Java
 - Finished configuring AWS services for the DevOps project
 - Finished setting up my local development environment for the project
-_ Resolved AWS billing issue
+- Resolved AWS billing issue
 - Read [React Docs](https://reactjs.org/docs/getting-started.html)
 - Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 - Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
@@ -112,8 +146,6 @@ _ Resolved AWS billing issue
 
 
 ---
-
-
 
 
 
@@ -135,7 +167,7 @@ _ Resolved AWS billing issue
 - Continue working on SuperDuperDrive Project - Java
 - Finished configuring AWS services for the DevOps project
 - Finished setting up my local development environment for the project
-_ Resolved AWS billing issue
+- Resolved AWS billing issue
 - Read [React Docs](https://reactjs.org/docs/getting-started.html)
 - Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 - Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
@@ -172,7 +204,7 @@ _ Resolved AWS billing issue
 - Continue working on SuperDuperDrive Project - Java
 - Finished configuring AWS services for the DevOps project
 - Finished setting up my local development environment for the project
-_ Resolved AWS billing issue
+- Resolved AWS billing issue
 - Read [React Docs](https://reactjs.org/docs/getting-started.html)
 - Read about [Private Routes](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 - Read about [Redirects](https://reacttraining.com/react-router/web/api/Redirect)
