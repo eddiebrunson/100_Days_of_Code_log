@@ -38,6 +38,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+
+
+## Security Quarantine Over!! 
+
+### Day 53: Aug 3, 2020 - Sunday
+
+**Today's Project(s):**
+
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Continue preparing for DevOps Project 2
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Finished Infrastructure Diagrams 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today is been long awaited! I am finished turning my home router back on after 30 days disconnecting it! I had a very serious security issue, where someone from out of the country was accessing my devices through my router. I followed all the steps my service adviser gave me! So I believe the threat is resolved now! I'm so glad to be online while at home! I also need to figure out how to catch up my 100 Days of Code posts on socail media as well! As I stopped posting during this time as well. Anyways, today I learned aobut designing Infrastruture Diagrams for DevOps using [Lucidcharts](www.lucidchart.com). Now that I know about this tool I'll be using it more often! 
+
+
+
+
+
+___
+
+
 ## Security Issue/Working offline 
 
 ### Day 52: Aug 1, 2020 - Saturday
