@@ -42,7 +42,51 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Security Quarantine Over!! 
 
-### Day 53: Aug 3, 2020 - Sunday
+### Day 54: Aug , 2020 - Monday
+
+**Today's Project(s):**
+
+- Start Networking Infrastruture
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Continue preparing for DevOps Project 2
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Finished Networking Infrastruture
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today, I learned about Networking Infrastruture and components that can be used in a VPC. I also conitnued working on setting up 2nd Cloud Dev Ops project as well as the 3rd project! 
+
+
+
+
+
+
+___
+
+
+
+
+
+## Security Quarantine Over!! 
+
+### Day 53: Aug 2, 2020 - Sunday
 
 **Today's Project(s):**
 
