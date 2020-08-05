@@ -39,10 +39,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+## Security Quarantine Over!! 
+
+### Day 55: Aug 4, 2020 - Tuesday
+
+**Today's Project(s):**
+
+- Start Servers abd Security Groups
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Continue preparing for DevOps Project 2
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Finished Servers andd Security Groups
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today, I learned about servers and security groups. Mainly, I did a lot of yaml file configuration. I like how I can reuse or set up templates of these yaml files. I continued setting up to start Projects 2 and 3. As the more I prepare the less AWS charges I'll encure. 
+
+
+
 
 ## Security Quarantine Over!! 
 
-### Day 54: Aug , 2020 - Monday
+### Day 54: Aug 3, 2020 - Monday
 
 **Today's Project(s):**
 
@@ -71,7 +106,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
 
 
-**Thoughts:** Today, I learned about Networking Infrastruture and components that can be used in a VPC. I also conitnued working on setting up 2nd Cloud Dev Ops project as well as the 3rd project! 
+**Thoughts:** Today, I learned about Networking Infrastruture and components that can be used in a VPC. I configured a yaml file to set up my Cloud Formation scripts and parameter files. I also know how to add NAT Gateways and subnets. I also conitnued working on setting up 2nd Cloud Dev Ops project as well as the 3rd project! 
 
 
 
