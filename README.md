@@ -38,6 +38,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+
+## Security Quarantine Over!! 
+
+### Day 57: Aug 6, 2020 - Thursday
+
+**Today's Project(s):**
+
+- Start DevOps Project 2 
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Testing my server configuration 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today, I start the project 2! I'm now testing to make sure everything is working right before I continue. 
+---
+
+
+
 ## Security Quarantine Over!! 
 
 ### Day 56: Aug 5, 2020 - Wednesday
