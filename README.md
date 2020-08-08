@@ -38,6 +38,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+## Security Quarantine Over!! 
+
+### Day 56: Aug 5, 2020 - Wednesday
+
+**Today's Project(s):**
+
+- Start Storage and Databases
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Continue preparing for DevOps Project 2
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Finished Storage and Databases
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** Today, worked through learning about storage and databases focusing on RDS and S3. It was a nice refresher with a more DevOps focus. 
+
+---
+
+
 
 ## Security Quarantine Over!! 
 
@@ -73,7 +109,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Today, I learned about servers and security groups. Mainly, I did a lot of yaml file configuration. I like how I can reuse or set up templates of these yaml files. I continued setting up to start Projects 2 and 3. As the more I prepare the less AWS charges I'll encure. 
 
 
-
+---
 
 ## Security Quarantine Over!! 
 
