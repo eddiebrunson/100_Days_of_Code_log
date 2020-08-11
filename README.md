@@ -37,6 +37,42 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Security Quarantine Over!! 
+
+### Day 59: Aug 8, 2020 - Saturday
+
+**Today's Project(s):**
+
+- Start Section 4: CI/CD Pipelines on AWS - Lesson 1 Continous Integration and Continuous Deployment 
+- Continue DevOps Project 2 
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- First day back online while at home!!
+- Set up local development environment for 2nd Cloud DevOps project 
+- Testing my server configuration 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I'm still working through Project 2. Very close to finishing! I also moved onto section 4 materials. I started taking notes on Continuous Integration and Continuous Development. 
+
+
+---
+
 
 
 ## Security Quarantine Over!! 
