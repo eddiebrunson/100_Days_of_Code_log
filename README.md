@@ -38,6 +38,80 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+## Security Quarantine Over!! 
+
+### Day 60: Aug 9, 2020 - Sunday
+
+**Today's Project(s):**
+
+- Start Section 4: CI/CD Pipelines on AWS - Lesson 2: Jenkins Pipeline and Deployment Strategies  
+- Continue DevOps Project 2 
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- Finished Lesson 2: Jenkins Pipeline and Deployment Strategies
+- Set up local development environment for 2nd Cloud DevOps project 
+- Testing my server configuration 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I paused working on Project 2. Since I'm working on my macbook and I'm completely out of storage! So I can just use the web broswer and VS Code right now. Once I can afford to upgrade the storage I'll be able to work efficently. Ideally I would like to purchase an new Macbook with larger RAM and atleast 512 GB of storage. Once, I'm back on my Imac I'll be able to quickly finish the project! Anyways, today I moved on to Lesson 2 which covered Jenknis Pipeline and Deployment Strategies. 
+
+
+---
+
+
+
+## Security Quarantine Over!! 
+
+### Day 59: Aug 8, 2020 - Saturday
+
+**Today's Project(s):**
+
+- Start Section 4: CI/CD Pipelines on AWS - Lesson 1 Continous Integration and Continuous Deployment 
+- Continue DevOps Project 2 
+- Review Serverless Material  
+- Paused Would You Rather APP -- Focusing on Cloud maaterial
+- Working on TODO App Cloud Development Project 4
+- Start setting up Dev Ops Project 3
+- Turned my router back on after 30 days offline while at home - Security Issue
+
+**Progress:**
+
+- Set up local development environment for 2nd Cloud DevOps project 
+- Testing my server configuration 
+- Continued SuperDuperDrive Project - Java
+- Finished configuring AWS services for the DevOps project
+- Read [React Docs](https://reactjs.org/docs/getting-started.html)
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/eddiebrunson "eddiebrunson's code portfolio on FreeCodeCamp")
+- [My Cloud Developer Notes](https://github.com/eddiebrunson/Cloud_Dev_Notes)
+- [Would You Rather APP](https://github.com/eddiebrunson/Udacity_Would_You_Rather)
+- [AWS Machine Learning Notes](https://github.com/eddiebrunson/AWS-Machine-Learning)
+
+
+**Thoughts:** I'm still working through Project 2. Very close to finishing! I also moved onto section 4 materials. I started taking notes on Continuous Integration and Continuous Development. 
+
+
+---
+
+
 
 ## Security Quarantine Over!! 
 
@@ -54,7 +128,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- First day back online while at home!!
 - Set up local development environment for 2nd Cloud DevOps project 
 - Testing my server configuration 
 - Continued SuperDuperDrive Project - Java
@@ -90,7 +163,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- First day back online while at home!!
 - Set up local development environment for 2nd Cloud DevOps project 
 - Testing my server configuration 
 - Continued SuperDuperDrive Project - Java
@@ -126,7 +198,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- First day back online while at home!!
 - Set up local development environment for 2nd Cloud DevOps project 
 - Finished Storage and Databases
 - Continued SuperDuperDrive Project - Java
@@ -163,7 +234,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- First day back online while at home!!
 - Set up local development environment for 2nd Cloud DevOps project 
 - Finished Servers andd Security Groups
 - Continued SuperDuperDrive Project - Java
@@ -199,7 +269,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- First day back online while at home!!
 - Set up local development environment for 2nd Cloud DevOps project 
 - Finished Networking Infrastruture
 - Continued SuperDuperDrive Project - Java
